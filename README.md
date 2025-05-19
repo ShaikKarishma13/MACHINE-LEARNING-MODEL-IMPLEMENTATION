@@ -7,7 +7,6 @@
 *DURATION:* 6 WEEKS  
 *MENTOR:* NEELA SANTOSH
 
-# Spam Email Detection Using Machine Learning (Scikit-learn)
 
 ## Project Overview
 
