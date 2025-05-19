@@ -84,7 +84,7 @@ While the model performs well on this dataset, future enhancements could include
 This project demonstrates the practical implementation of a machine learning pipeline for text classification. It highlights the efficiency of Scikit-learn and serves as a strong foundation for anyone interested in spam detection or general NLP-based machine learning task
 
 
-OUTPUT:
+##OUTPUT:
 ![Image](https://github.com/user-attachments/assets/cbf93856-a25c-4b8d-9c9e-42635585c0b3)
 
 ![Image](https://github.com/user-attachments/assets/3189c596-c3b9-4520-8dcb-d27745a8dbd3)
